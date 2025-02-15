@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    display: block;
+    height: 960px;
+    width: 1844px;
+    justify-content: center;
+    align-items: center;
+    background-image: url(background/0a17df67656135d4364ab35d6b639ee0.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+h1{
+    font-size: 90px;
+    text-transform:capitalize ;
+    text-align: center;
+    margin-top: 290px;
+    margin-bottom: 130px;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
